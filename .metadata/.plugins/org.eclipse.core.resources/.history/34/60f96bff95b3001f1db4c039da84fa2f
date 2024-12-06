@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : 6_asgmt1.c
+ Author      : Hrishinandan N
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+//		Accept a char input from use and display it on the console
+	char input;
+	printf("Enter a charachter: ");
+	scanf("%c" ,&input);
+	printf("Charachter is: %c", input);
+
+
+	return EXIT_SUCCESS;
+}

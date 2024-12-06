@@ -1,0 +1,24 @@
+11:27:19 **** Build of configuration Debug for project 7_asgmnt1_SI ****
+make all 
+Building file: ../src/7_asgmnt1_SI.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7_asgmnt1_SI.d" -MT"src/7_asgmnt1_SI.o" -o "src/7_asgmnt1_SI.o" "../src/7_asgmnt1_SI.c"
+Finished building: ../src/7_asgmnt1_SI.c
+ 
+Building target: 7_asgmnt1_SI
+Invoking: MacOS X C Linker
+gcc  -o "7_asgmnt1_SI"  ./src/7_asgmnt1_SI.o   
+Finished building target: 7_asgmnt1_SI
+ 
+11:27:25 **** Incremental Build of configuration Debug for project 7_asgmnt1_SI ****
+make all 
+Building file: ../src/7_asgmnt1_SI.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/7_asgmnt1_SI.d" -MT"src/7_asgmnt1_SI.o" -o "src/7_asgmnt1_SI.o" "../src/7_asgmnt1_SI.c"
+Finished building: ../src/7_asgmnt1_SI.c
+ 
+Building target: 7_asgmnt1_SI
+Invoking: MacOS X C Linker
+gcc  -o "7_asgmnt1_SI"  ./src/7_asgmnt1_SI.o   
+Finished building target: 7_asgmnt1_SI
+ 

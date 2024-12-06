@@ -1,0 +1,15 @@
+10:37:36 **** Incremental Build of configuration Debug for project 3_sumOfValues ****
+make all 
+Building file: ../src/3_sumOfValues.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/3_sumOfValues.d" -MT"src/3_sumOfValues.o" -o "src/3_sumOfValues.o" "../src/3_sumOfValues.c"
+Finished building: ../src/3_sumOfValues.c
+ 
+Building target: 3_sumOfValues
+Invoking: MacOS X C Linker
+gcc  -o "3_sumOfValues"  ./src/3_sumOfValues.o   
+Finished building target: 3_sumOfValues
+ 
+
+10:37:37 Build Finished. 0 errors, 0 warnings. (took 874ms)
+
