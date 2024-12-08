@@ -1,45 +1,87 @@
-16:05:21 **** Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:40:37 **** Incremental Build of configuration Debug for project 21_triangleStarPattern ****
 make all 
-Building file: ../src/15_asgmnt2_q3.c
+Building file: ../src/21_triangleStarPattern.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/15_asgmnt2_q3.d" -MT"src/15_asgmnt2_q3.o" -o "src/15_asgmnt2_q3.o" "../src/15_asgmnt2_q3.c"
-Finished building: ../src/15_asgmnt2_q3.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/21_triangleStarPattern.d" -MT"src/21_triangleStarPattern.o" -o "src/21_triangleStarPattern.o" "../src/21_triangleStarPattern.c"
+Finished building: ../src/21_triangleStarPattern.c
  
-Building target: 15_asgmnt2_q3
+Building target: 21_triangleStarPattern
 Invoking: MacOS X C Linker
-gcc  -o "15_asgmnt2_q3"  ./src/15_asgmnt2_q3.o   
-Finished building target: 15_asgmnt2_q3
+gcc  -o "21_triangleStarPattern"  ./src/21_triangleStarPattern.o   
+Finished building target: 21_triangleStarPattern
  
-16:05:29 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
-make all 
-Building file: ../src/15_asgmnt2_q3.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/15_asgmnt2_q3.d" -MT"src/15_asgmnt2_q3.o" -o "src/15_asgmnt2_q3.o" "../src/15_asgmnt2_q3.c"
-Finished building: ../src/15_asgmnt2_q3.c
- 
-Building target: 15_asgmnt2_q3
-Invoking: MacOS X C Linker
-gcc  -o "15_asgmnt2_q3"  ./src/15_asgmnt2_q3.o   
-Finished building target: 15_asgmnt2_q3
- 
-16:05:38 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:07 **** Incremental Build of configuration Debug for project 10_greaterOf3 ****
 make all 
 make: Nothing to be done for `all'.
-16:05:41 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:08 **** Incremental Build of configuration Debug for project 11_ifElseIf ****
 make all 
 make: Nothing to be done for `all'.
-16:05:45 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:08 **** Incremental Build of configuration Debug for project 12_switch ****
 make all 
 make: Nothing to be done for `all'.
-16:05:48 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:08 **** Incremental Build of configuration Debug for project 13_asgmnt2_q1 ****
 make all 
 make: Nothing to be done for `all'.
-16:05:54 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:08 **** Incremental Build of configuration Debug for project 14_asgmnt2_q2 ****
 make all 
 make: Nothing to be done for `all'.
-16:05:57 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:08 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
 make all 
 make: Nothing to be done for `all'.
-16:06:01 **** Incremental Build of configuration Debug for project 15_asgmnt2_q3 ****
+13:41:08 **** Incremental Build of configuration Debug for project 16_forLoop ****
+make all 
+make: Nothing to be done for `all'.
+13:41:09 **** Incremental Build of configuration Debug for project 17_sumOfNumbers ****
+make all 
+make: Nothing to be done for `all'.
+13:41:09 **** Incremental Build of configuration Debug for project 18_sumOfEvenNumbers ****
+make all 
+make: Nothing to be done for `all'.
+13:41:09 **** Incremental Build of configuration Debug for project 19_printEvenNumbers ****
+make all 
+make: Nothing to be done for `all'.
+13:41:09 **** Incremental Build of configuration Debug for project 1_printf ****
+make all 
+make: Nothing to be done for `all'.
+13:41:09 **** Incremental Build of configuration Debug for project 20_primeNumbercheck ****
+make all 
+make: Nothing to be done for `all'.
+13:41:09 **** Incremental Build of configuration Debug for project 21_triangleStarPattern ****
+make all 
+make: Nothing to be done for `all'.
+13:41:10 **** Incremental Build of configuration Debug for project 22_traiangleStarPatternReverse ****
+make all 
+make: Nothing to be done for `all'.
+13:41:10 **** Incremental Build of configuration Debug for project 23_asgmnt3_q1 ****
+make all 
+make: Nothing to be done for `all'.
+13:41:10 **** Incremental Build of configuration Debug for project 24_asgmnt3_q2 ****
+make all 
+make: Nothing to be done for `all'.
+13:41:10 **** Incremental Build of configuration Debug for project 25_triangleNumberPattern ****
+make all 
+make: Nothing to be done for `all'.
+13:41:10 **** Incremental Build of configuration Debug for project 2_scanf ****
+make all 
+make: Nothing to be done for `all'.
+13:41:11 **** Incremental Build of configuration Debug for project 3_sumOfValues ****
+make all 
+make: Nothing to be done for `all'.
+13:41:11 **** Incremental Build of configuration Debug for project 4_avgOfNumbers ****
+make all 
+make: Nothing to be done for `all'.
+13:41:11 **** Incremental Build of configuration Debug for project 5_swapping ****
+make all 
+make: Nothing to be done for `all'.
+13:41:11 **** Incremental Build of configuration Debug for project 6_asgmt1 ****
+make all 
+make: Nothing to be done for `all'.
+13:41:11 **** Incremental Build of configuration Debug for project 7_asgmnt1_SI ****
+make all 
+make: Nothing to be done for `all'.
+13:41:11 **** Incremental Build of configuration Debug for project 8_checkNumber ****
+make all 
+make: Nothing to be done for `all'.
+13:41:12 **** Incremental Build of configuration Debug for project 9_greaterNumber ****
 make all 
 make: Nothing to be done for `all'.

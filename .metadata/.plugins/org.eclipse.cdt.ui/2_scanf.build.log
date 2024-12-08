@@ -1,6 +1,6 @@
-09:01:51 **** Incremental Build of configuration Debug for project 2_scanf ****
+13:41:10 **** Incremental Build of configuration Debug for project 2_scanf ****
 make all 
 make: Nothing to be done for `all'.
 
-09:01:51 Build Finished. 0 errors, 0 warnings. (took 139ms)
+13:41:10 Build Finished. 0 errors, 0 warnings. (took 105ms)
 

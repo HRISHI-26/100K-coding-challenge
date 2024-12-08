@@ -1,15 +1,6 @@
-11:20:29 **** Incremental Build of configuration Debug for project 6_asgmt1 ****
+13:41:11 **** Incremental Build of configuration Debug for project 6_asgmt1 ****
 make all 
-Building file: ../src/6_asgmt1.c
-Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/6_asgmt1.d" -MT"src/6_asgmt1.o" -o "src/6_asgmt1.o" "../src/6_asgmt1.c"
-Finished building: ../src/6_asgmt1.c
- 
-Building target: 6_asgmt1
-Invoking: MacOS X C Linker
-gcc  -o "6_asgmt1"  ./src/6_asgmt1.o   
-Finished building target: 6_asgmt1
- 
+make: Nothing to be done for `all'.
 
-11:20:30 Build Finished. 0 errors, 0 warnings. (took 877ms)
+13:41:11 Build Finished. 0 errors, 0 warnings. (took 106ms)
 
