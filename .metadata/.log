@@ -1141,3 +1141,30 @@ java.io.IOException: Cannot run program "valgrind": Unknown reason
 	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
 	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 16:01:27.142
+!MESSAGE Indexed '26_array' (1 sources, 86 headers) in 0.445 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 16:25:45.690
+!MESSAGE Indexed '27_arrayLimit' (1 sources, 86 headers) in 1.18 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 16:31:52.114
+!MESSAGE Indexed '28_arraySum' (1 sources, 86 headers) in 0.363 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 16:53:38.210
+!MESSAGE Indexed '29_arraySearch' (1 sources, 86 headers) in 0.948 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 17:15:38.959
+!MESSAGE Indexed '30_arraySort' (1 sources, 86 headers) in 0.615 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 17:29:08.421
+!MESSAGE Indexed '30_arraySelectionSort' (0 sources, 0 headers) in 0.002 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 17:35:18.362
+!MESSAGE Indexed '31_asgmnt4_q1' (1 sources, 86 headers) in 0.24 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 17:49:13.685
+!MESSAGE Indexed '32_asgmnt4_q2' (1 sources, 86 headers) in 0.316 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-08 17:55:55.298
+!MESSAGE Indexed '33_asgmnt4_q3' (1 sources, 86 headers) in 0.423 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
