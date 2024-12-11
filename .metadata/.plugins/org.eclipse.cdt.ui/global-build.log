@@ -1,15 +1,12 @@
-18:04:18 **** Incremental Build of configuration Debug for project 33_asgmnt4_q3 ****
+13:55:29 **** Incremental Build of configuration Debug for project 42_arrayUsingFunction ****
 make all 
-Building file: ../src/33_asgmnt4_q3.c
+Building file: ../src/42_arrayUsingFunction.c
 Invoking: GCC C Compiler
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/33_asgmnt4_q3.d" -MT"src/33_asgmnt4_q3.o" -o "src/33_asgmnt4_q3.o" "../src/33_asgmnt4_q3.c"
-Finished building: ../src/33_asgmnt4_q3.c
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/42_arrayUsingFunction.d" -MT"src/42_arrayUsingFunction.o" -o "src/42_arrayUsingFunction.o" "../src/42_arrayUsingFunction.c"
+Finished building: ../src/42_arrayUsingFunction.c
  
-Building target: 33_asgmnt4_q3
+Building target: 42_arrayUsingFunction
 Invoking: MacOS X C Linker
-gcc  -o "33_asgmnt4_q3"  ./src/33_asgmnt4_q3.o   
-Finished building target: 33_asgmnt4_q3
+gcc  -o "42_arrayUsingFunction"  ./src/42_arrayUsingFunction.o   
+Finished building target: 42_arrayUsingFunction
  
-18:04:21 **** Incremental Build of configuration Debug for project 33_asgmnt4_q3 ****
-make all 
-make: Nothing to be done for `all'.

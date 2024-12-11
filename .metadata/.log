@@ -1168,3 +1168,118 @@ java.io.IOException: Cannot run program "valgrind": Unknown reason
 
 !ENTRY org.eclipse.cdt.core 1 0 2024-12-08 17:55:55.298
 !MESSAGE Indexed '33_asgmnt4_q3' (1 sources, 86 headers) in 0.423 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+!SESSION 2024-12-08 19:42:31.152 -----------------------------------------------
+eclipse.buildId=4.34.0.20241128-0756
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/hrishinandanmacbook/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/hrishinandanmacbook/.eclipse_keyring
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 07:26:46.617
+!MESSAGE Indexed '34_string' (1 sources, 86 headers) in 1.37 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 07:41:38.224
+!MESSAGE Indexed '35_2dArray' (1 sources, 86 headers) in 0.526 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 13:59:09.865
+!MESSAGE Indexed '36_function' (1 sources, 86 headers) in 0.798 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 15:08:25.992
+!MESSAGE Indexed '37_function2' (1 sources, 86 headers) in 0.466 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2024-12-09 15:11:41.590
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /Users/hrishinandanmacbook/Developer/Eclipse_IDE/37_function2/Debug/37_function2 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:688)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2024-12-09 15:11:41.601
+!MESSAGE /Users/hrishinandanmacbook/Developer/Eclipse_IDE/37_function2/Debug/37_function2 not found
+!STACK 0
+java.io.FileNotFoundException: /Users/hrishinandanmacbook/Developer/Eclipse_IDE/37_function2/Debug/37_function2 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:688)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 15:12:48.647
+!MESSAGE Indexed '38_function3' (1 sources, 86 headers) in 0.369 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2024-12-09 15:15:50.935
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /Users/hrishinandanmacbook/Developer/Eclipse_IDE/38_function3/Debug/38_function3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:688)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2024-12-09 15:15:50.936
+!MESSAGE /Users/hrishinandanmacbook/Developer/Eclipse_IDE/38_function3/Debug/38_function3 not found
+!STACK 0
+java.io.FileNotFoundException: /Users/hrishinandanmacbook/Developer/Eclipse_IDE/38_function3/Debug/38_function3 not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:688)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 15:18:03.214
+!MESSAGE Indexed '39_function4' (1 sources, 86 headers) in 0.668 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-09 15:39:31.836
+!MESSAGE Indexed '40_asgmnt5_q1' (1 sources, 86 headers) in 0.454 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-10 13:27:14.137
+!MESSAGE Indexed '41_asgmnt5_q2' (1 sources, 86 headers) in 0.698 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-12-10 13:43:41.505
+!MESSAGE Indexed '42_arrayUsingFunction' (1 sources, 86 headers) in 0.786 sec: 1,783 declarations; 2,602 references; 0 unresolved inclusions; 6 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2024-12-10 13:53:31.598
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /Users/hrishinandanmacbook/Developer/Eclipse_IDE/42_arrayUsingFunction/Debug/42_arrayUsingFunction not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:688)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2024-12-10 13:53:31.600
+!MESSAGE /Users/hrishinandanmacbook/Developer/Eclipse_IDE/42_arrayUsingFunction/Debug/42_arrayUsingFunction not found
+!STACK 0
+java.io.FileNotFoundException: /Users/hrishinandanmacbook/Developer/Eclipse_IDE/42_arrayUsingFunction/Debug/42_arrayUsingFunction not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate2.verifyProgramPath(AbstractCLaunchDelegate2.java:701)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.checkBinaryDetails(LocalRunLaunchDelegate.java:262)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.runLocalApplication(LocalRunLaunchDelegate.java:90)
+	at org.eclipse.cdt.launch.internal.LocalRunLaunchDelegate.launch(LocalRunLaunchDelegate.java:78)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:777)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:688)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1054)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$1.run(DebugUIPlugin.java:1257)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

@@ -1,6 +1,6 @@
-13:41:09 **** Incremental Build of configuration Debug for project 1_printf ****
+22:48:27 **** Incremental Build of configuration Debug for project 1_printf ****
 make all 
 make: Nothing to be done for `all'.
 
-13:41:09 Build Finished. 0 errors, 0 warnings. (took 106ms)
+22:48:27 Build Finished. 0 errors, 0 warnings. (took 100ms)
 
